@@ -1,1 +1,1 @@
-# image_x_ray_classification
+# Image_X_Ray_Classification
